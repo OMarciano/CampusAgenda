@@ -1,1 +1,3 @@
-# CampusAgenda
+# Campus Agenda
+
+WordPress Plugin
