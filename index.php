@@ -1,0 +1,6 @@
+<?php 
+
+// void do index
+
+
+?>
